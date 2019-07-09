@@ -1,4 +1,4 @@
-package dajver.com.recordscreenexample
+package dajver.com.recordscreenexample.recorder.activity
 
 import android.content.Context
 import android.content.Intent

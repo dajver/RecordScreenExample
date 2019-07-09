@@ -5,7 +5,7 @@ import android.content.Context
 import android.content.Intent
 import android.os.Binder
 import android.os.IBinder
-import dajver.com.recordscreenexample.RequestMediaProjectionActivity
+import dajver.com.recordscreenexample.recorder.activity.RequestMediaProjectionActivity
 import dajver.com.recordscreenexample.recorder.helpers.ScreenRecorderHelper
 import dajver.com.recordscreenexample.recorder.service.listeners.RecordListener
 import dajver.com.recordscreenexample.recorder.service.listeners.RecordingPermissionListener

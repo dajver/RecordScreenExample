@@ -23,7 +23,7 @@
             </intent-filter>
         </activity>
 
-        <activity android:name=".RequestMediaProjectionActivity" />
+        <activity android:name=".recorder.activity.RequestMediaProjectionActivity" />
 
         <service android:name=".recorder.service.RecordService" />
 
